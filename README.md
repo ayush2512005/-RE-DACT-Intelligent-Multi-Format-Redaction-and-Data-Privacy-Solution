@@ -1,2 +1,2 @@
 # -RE-DACT-Intelligent-Multi-Format-Redaction-and-Data-Privacy-Solution
-In order to remotely redact and anonymize data in the form of text, photos, and videos, respectively, the RE-DACT technology was specifically created as an intelligent technologysystem. The solution ensures sufficient and quick redaction while maintaining the quality of the material since it makes use of cutting-edge OCR and NLP 
+In order to remotely redact and anonymize data in the form of text, photos, and videos, respectively, the RE-DACT technology was specifically created as an intelligent technologysystem. The solution ensures sufficient and quick redaction while maintaining the quality of the material since it makes use of cutting-edge OCR and NLP.
